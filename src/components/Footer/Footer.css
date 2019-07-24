@@ -1,0 +1,11 @@
+.footer {
+    margin: 10px;
+}
+
+.footer a {
+    font-size: 2em;
+    transition-duration: 0.2s;
+}
+.footer a:hover {
+    color: #209cee;
+}

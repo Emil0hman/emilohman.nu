@@ -1,0 +1,13 @@
+.skills .gridContainer {
+    display: grid;
+    grid-template-rows: 100%;
+    grid-template-columns: 33.3333% 33.3333% 33.3333%;
+    text-align: left;
+    padding: 30px;
+    width: 70vw;
+    margin: 0 15vw;
+}
+.skills ul {
+    text-align: left;
+    list-style: none;
+}

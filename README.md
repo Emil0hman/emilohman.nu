@@ -4,10 +4,7 @@ My portfolio website built with React.js
 ## Techstack
 - JavaScript
 - [React.js](https://reactjs.org)
-
-## Colors
-Description|Color
----|---
-Background|#ffffff
-Text|#000000
-Secondary Color|#209cee
+  - [styled-components](https://www.npmjs.com/package/styled-components)
+  - [react-animations](https://www.npmjs.com/package/react-animations)
+- [Google Fonts](https://fonts.google.com)
+- [Font Awesome](https://fontawesome.com)

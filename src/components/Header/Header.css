@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Taviraj&display=swap');
+
+.header {
+    height: 100vh;
+    width: auto;
+    text-align: center;
+    font-size: 3em;
+    line-height: 100vh;
+    transition-duration: 1s;
+}
+.header h1, .header h2 {
+    font-family: 'Taviraj', serif;
+}
+
+
+.notFullHeight {
+    height: 75vh;
+    line-height: 75vh;
+}

@@ -1,0 +1,24 @@
+.projectCard {
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.projectCard a, .projectCard span {
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid #209cee;
+    font-size: 1em;
+    transition-duration: 0.2s;
+    border-radius: 3px;
+    display: inline-block;
+}
+.projectCard a:hover, .projectCard span:hover {
+    background: #209cee;
+    color: white;
+    cursor: white;
+}
+
+.projectCard img {
+    width: calc(50vw - 40px);
+    border-radius: 5px;
+}
