@@ -5,6 +5,7 @@
     width: 100vw;
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
+    overflow-x: hidden;
 }
 
 a {

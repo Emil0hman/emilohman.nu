@@ -6,9 +6,9 @@ import Section from '../Section';
 import SubSection from '../SubSection';
 
 const skills = {
-  "frontend": ["HTML and CSS", "JavaScript", "SCSS and SASS", "React", "WordPress", "jQuery"],
-  "backend": ["Node.js", "Express", "PHP", "Ruby", "Python", "SQL", "Go"],
-  "other": ["Electron", "Git", "Microsoft Office", "ZSH and Bash", "Shell Script", "Processing"]
+  "frontend": ["HTML and CSS", "JavaScript", "SCSS and SASS", "React.js", "WordPress", "jQuery", "Bootstrap 4"],
+  "backend": ["Node.js", "Express", "PHP", "Ruby", "Python", "SQL", "Go", "MySQL Database"],
+  "other": ["Electron", "Git", "Microsoft Office", "CLI", "Shell Script", "Processing", "Webpack", "NPM"]
 }
 
 export default class Skills extends React.Component {
@@ -18,7 +18,7 @@ export default class Skills extends React.Component {
         <Section title="Skills">
           <div className="gridContainer">
             <SubSection title="Front-End" list={skills.frontend} />
-            <SubSection title="Back-End" list={skills.backend} />
+            <SubSection title="Back-End and MW" list={skills.backend} />
             <SubSection title="Other" list={skills.other} />
           </div>
         </Section>

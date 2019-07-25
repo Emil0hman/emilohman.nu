@@ -12,7 +12,7 @@ export default class Footer extends React.Component {
       <div className={"footer "}>
         <a href="mailto:mail@emilohman.nu"><FontAwesomeIcon icon={faEnvelope} /> </a>
         <a href="https://github.com/Emil0hman"><FontAwesomeIcon icon={faGithub} /></a>
-        <h3>© Copyright Emil Öhman 2019</h3>
+        <h3>Emil Öhman 2019</h3>
       </div>
     );
   }
