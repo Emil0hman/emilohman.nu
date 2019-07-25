@@ -11,3 +11,13 @@
     text-align: left;
     list-style: none;
 }
+
+@media only screen and (max-width: 800px) {
+    .skills .gridContainer {
+        grid-template-columns: 100%;
+        grid-template-rows: auto;
+    }
+    .skills ul {
+        margin-bottom: 15px;
+    }
+}
