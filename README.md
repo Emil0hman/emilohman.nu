@@ -8,3 +8,6 @@ My portfolio website built with React.js
   - [react-animations](https://www.npmjs.com/package/react-animations)
 - [Google Fonts](https://fonts.google.com)
 - [Font Awesome](https://fontawesome.com)
+
+## Changelog
+See [CHANGELOG.md](CHANGELOG.md)
