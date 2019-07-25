@@ -19,6 +19,6 @@
 }
 
 .projectCard img {
-    width: calc(50vw - 40px);
+    width: calc(100vw - 40px);
     border-radius: 5px;
 }
