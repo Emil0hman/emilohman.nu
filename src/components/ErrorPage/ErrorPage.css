@@ -1,0 +1,9 @@
+.errorPage {
+    height: 100vh;
+    width: auto;
+    text-align: center;
+    padding-top: 20vh;
+}
+.errorPage h1 {
+    font-size: 10vw;
+}
