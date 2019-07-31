@@ -6,6 +6,7 @@ My portfolio website built with React.js
 - [React.js](https://reactjs.org)
   - [styled-components](https://www.npmjs.com/package/styled-components)
   - [react-animations](https://www.npmjs.com/package/react-animations)
+  - [react-reveal](https://www.react-reveal.com)
 - [Google Fonts](https://fonts.google.com)
 - [Font Awesome](https://fontawesome.com)
 
