@@ -15,7 +15,15 @@
 .projectCard a:hover, .projectCard span:hover {
     background: #209cee;
     color: white;
-    cursor: white;
+}
+
+.projectCard .private {
+    border: 2px solid grey; 
+    cursor: default;
+}
+.projectCard .private:hover {
+    background: white;
+    color: black;
 }
 
 .projectCard img {

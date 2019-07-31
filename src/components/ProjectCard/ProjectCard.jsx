@@ -7,12 +7,12 @@ import { faCode, faLaptop } from '@fortawesome/free-solid-svg-icons'
 
 export default class ProjectCard extends React.Component {
   codeButton() {
-    if (this.props.codeLink === "") return <span class="private"><FontAwesomeIcon icon={faCode} /> Code Private</span>
+    if (this.props.codeLink === "" || this.props.codeLink === undefined) return <span class="private"><FontAwesomeIcon icon={faCode} /> Code Private</span>
     return <a target="_blank" rel="noopener noreferrer" href={this.props.codeLink}><FontAwesomeIcon icon={faCode} /> View Code</a>
   }
 
   demoButton() {
-    if (this.props.demoLink === "") return <span class="private"><FontAwesomeIcon icon={faLaptop} /> No Demo Avaliable</span>
+    if (this.props.demoLink === "" || this.props.demoLink === undefined) return <span class="private"><FontAwesomeIcon icon={faLaptop} /> No Demo Avaliable</span>
     return <a target="_blank" rel="noopener noreferrer" href={this.props.demoLink}><FontAwesomeIcon icon={faLaptop} /> View Demo</a>
   }
 
