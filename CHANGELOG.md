@@ -1,7 +1,11 @@
 # Changelog - emilohman.nu
+## 1.0.4 - _2019-08-01_
+**Changed:**
+- Changed the font on ErrorPage in [ErrorPage.css](src/components/ErrorPage/ErrorPage.css)
+
 ## 1.0.3 - _2019-07-31_
 **Added:**
-- Added style for _No Demo Avaliable_ and _Code Private_ button in [ProjectCard.jsx](src/components/ProjectCard/ProjectCard.jsx) and [ProjectCard.css](src/components/ProjectCard/ProjectCard.jsx)
+- Added style for _No Demo Avaliable_ and _Code Private_ button in [ProjectCard.jsx](src/components/ProjectCard/ProjectCard.jsx) and [ProjectCard.css](src/components/ProjectCard/ProjectCard.css)
 - Added `<link rel="icon" href="%PUBLIC_URL%/favicon.ico" />` in [index.html](public/index.html). This is because the favicon was sometimes not displayed.
 
 **Changed:**
