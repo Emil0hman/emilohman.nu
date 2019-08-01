@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Taviraj&display=swap');
+
 .errorPage {
     height: 100vh;
     width: auto;
     text-align: center;
     padding-top: 20vh;
+    font-family: 'Taviraj', serif;
 }
 .errorPage h1 {
     font-size: 10vw;
