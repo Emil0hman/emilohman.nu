@@ -9,6 +9,7 @@ import ProjectCard from '../ProjectCard';
 import URLShortener from '../../assets/urlshortener.png';
 import Clock from '../../assets/clock.png';
 import RPS from '../../assets/rockpaperscissors.png';
+import Quiz from '../../assets/quizmaker.png';
 
 // Animations
 import Animate from 'react-reveal/Fade';
@@ -24,6 +25,8 @@ export default class Projects extends React.Component {
             <Animate><ProjectCard title="Clock" img={Clock} codeLink="https://github.com/Emil0hman/clock" demoLink="http://emilohman.nu/projects/clock" /></Animate>
 
             <Animate><ProjectCard title="Rock, Paper, Scissors" img={RPS} codeLink="https://github.com/Emil0hman/rock-paper-scissors" demoLink="http://emilohman.nu/projects/rps" /></Animate>
+
+            <Animate><ProjectCard title="QuizMaker" img={Quiz} codeLink="https://github.com/Emil0hman/quizmaker" demoLink="http://emilohman.nu/projects/quiz" /></Animate>
           </div>
         </Section>
       </div>

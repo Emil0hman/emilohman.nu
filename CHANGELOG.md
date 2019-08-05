@@ -1,4 +1,8 @@
 # Changelog - emilohman.nu
+## 1.0.5 - _2019-08-05_
+**Added:**
+- Added QuizMaker in [Projects.jsx](src/components/Projects/Projects.jsx)
+
 ## 1.0.4 - _2019-08-01_
 **Changed:**
 - Changed the font on ErrorPage in [ErrorPage.css](src/components/ErrorPage/ErrorPage.css)
