@@ -1,4 +1,13 @@
 # Changelog - emilohman.nu
+## 1.0.6 - _2019-08-06_
+**Added:**
+- Added GenGIF in [Projects.jsx](src/components/Projects/Projects.jsx)
+
+**Changed:**
+- Changed the style of the projects section
+- Changed the secoundary color
+- Other small CSS changes
+
 ## 1.0.5 - _2019-08-05_
 **Added:**
 - Added QuizMaker in [Projects.jsx](src/components/Projects/Projects.jsx)

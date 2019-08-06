@@ -4,8 +4,8 @@
 
 .footer a {
     font-size: 2em;
-    transition-duration: 0.2s;
+    transition-duration: 0.15s;
 }
 .footer a:hover {
-    color: #209cee;
+    color: var(--sec);
 }

@@ -1,25 +1,31 @@
 .projectCard {
     padding: 20px;
-    margin-bottom: 10px;
+    margin: 0 15vw 10px 15vw;
+    width: 70vw;
+    text-align: left;
+
+    display: grid;
+    grid-template-columns: 25vw auto;
+    grid-template-rows: 100%;
 }
 
 .projectCard a, .projectCard span {
     padding: 10px;
     margin: 5px;
-    border: 2px solid #209cee;
+    border: 2px solid #209cdd;
     font-size: 1em;
     transition-duration: 0.2s;
-    border-radius: 3px;
+    border-radius: 0px;
     display: inline-block;
 }
 .projectCard a:hover, .projectCard span:hover {
-    background: #209cee;
+    background: #209cdd;
     color: white;
 }
 
 .projectCard .private {
     border: 2px solid grey; 
-    cursor: default;
+    cursor: text;
 }
 .projectCard .private:hover {
     background: white;
@@ -27,12 +33,23 @@
 }
 
 .projectCard img {
-    width: calc(50vw - 40px);
+    width: 25vw;
     border-radius: 5px;
 }
 
+.projectCard .text {
+    padding-left: 20px;
+}
+
 @media only screen and (max-width: 800px) {
+    .projectCard {
+        grid-template-columns: 100%;
+        grid-template-rows: auto auto;
+
+        text-align: center;
+    }
     .projectCard img {
-        width: calc(100vw - 40px);
+        grid-row: 2;
+        width: calc(70vw - 40px);
     }
 }
