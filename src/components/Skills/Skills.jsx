@@ -8,7 +8,7 @@ import SubSection from '../SubSection';
 const skills = {
   "frontend": ["HTML and CSS", "JavaScript", "SCSS and SASS", "React.js", "WordPress", "jQuery", "Bootstrap 4"],
   "backend": ["Node.js", "Express", "PHP", "Ruby", "Python", "SQL", "Go", "MySQL Database"],
-  "other": ["Electron", "Git", "Microsoft Office", "CLI", "Shell Script", "Processing", "Webpack", "NPM"]
+  "other": ["Electron", "Git", "CLI", "Shell Script", "Processing", "Webpack", "NPM"]
 }
 
 export default class Skills extends React.Component {

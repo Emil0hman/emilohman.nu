@@ -1,4 +1,14 @@
 # Changelog - emilohman.nu
+## 1.0.7 - 
+**Added:**
+- Added CSS vars in [ProjectCard.css](src/components/ProjectCard/ProjectCard.css)
+
+**Removed:**
+- Removed Micosoft Office from skills
+
+**Changed:**
+- Changed Title
+
 ## 1.0.6 - _2019-08-06_
 **Added:**
 - Added GenGIF in [Projects.jsx](src/components/Projects/Projects.jsx)

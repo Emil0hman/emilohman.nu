@@ -12,14 +12,14 @@
 .projectCard a, .projectCard span {
     padding: 10px;
     margin: 5px;
-    border: 2px solid #209cdd;
+    border: 2px solid var(--sec);
     font-size: 1em;
     transition-duration: 0.2s;
     border-radius: 0px;
     display: inline-block;
 }
 .projectCard a:hover, .projectCard span:hover {
-    background: #209cdd;
+    background: var(--sec);
     color: white;
 }
 
