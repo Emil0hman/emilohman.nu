@@ -2,12 +2,14 @@
 ## 1.0.7 - 
 **Added:**
 - Added CSS vars in [ProjectCard.css](src/components/ProjectCard/ProjectCard.css)
+- Added more badges in [README.md](README.md)
 
 **Removed:**
-- Removed Micosoft Office from skills
+- Removed Micosoft Office from Skills
 
 **Changed:**
 - Changed Title
+- Made footer links open in a new tab
 
 ## 1.0.6 - _2019-08-06_
 **Added:**
