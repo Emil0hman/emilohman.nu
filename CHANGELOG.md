@@ -1,5 +1,8 @@
 # Changelog - emilohman.nu
 ## 1.0.8 - 
+**Added:**
+- Added more CSS variables
+
 **Changed:**
 - Changed main font
 

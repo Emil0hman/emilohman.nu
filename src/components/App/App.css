@@ -2,7 +2,11 @@
 @import url('https://fonts.googleapis.com/css?family=Martel&display=swap');
 
 :root {
+    --bg: #ffffff;
+    --text: #000000;
+
     --sec: #209cdd;
+    --sec-text: #ffffff;
 }
 
 .App {
@@ -12,9 +16,11 @@
     font-family: 'Martel', sans-serif;
     overflow-x: hidden;
     line-height: 1.25;
+    color: var(--text);
+    background: var(--bg);
 }
 
 a {
-    color: black;
+    color: var(--text);
     text-decoration: none;
 }

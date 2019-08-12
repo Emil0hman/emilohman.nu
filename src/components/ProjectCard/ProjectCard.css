@@ -17,10 +17,11 @@
     transition-duration: 0.2s;
     border-radius: 0px;
     display: inline-block;
+    line-height: 1;
 }
 .projectCard a:hover, .projectCard span:hover {
     background: var(--sec);
-    color: white;
+    color: var(--sec-text);
 }
 
 .projectCard .private {
@@ -28,8 +29,8 @@
     cursor: text;
 }
 .projectCard .private:hover {
-    background: white;
-    color: black;
+    background: var(--bg);
+    color: var(--text);
 }
 
 .projectCard img {
