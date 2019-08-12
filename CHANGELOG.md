@@ -1,4 +1,11 @@
 # Changelog - emilohman.nu
+## 1.0.8 - 
+**Changed:**
+- Changed main font
+
+**Removed:**
+- Removed `target="_blank"` from the mailto link in [ProjectCard.jsx](src/components/Footer/Footer.jsx)
+
 ## 1.0.7 - _2019-08-07_
 **Added:**
 - Added CSS vars in [ProjectCard.css](src/components/ProjectCard/ProjectCard.css)
