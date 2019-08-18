@@ -2,6 +2,7 @@
 ## 1.0.8 - 
 **Added:**
 - Added more CSS variables
+- Added a new section, see [Websites.jsx](src/components/Websites/Websites.jsx)
 
 **Changed:**
 - Changed main font

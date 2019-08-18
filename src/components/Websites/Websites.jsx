@@ -17,7 +17,7 @@ export default class Websites extends React.Component {
       <div className={"websites"}>
         <Section title="Websites">
           <div className="gridContainer">
-            <Animate><ProjectCard title="mittroligaklassrum.se" img={MRK} demoLink="http://mittroligaklassrum.se" desc="Built with React, React Router, PHP, MySQL and SQL" /></Animate>
+            <Animate><ProjectCard title="mittroligaklassrum.se" img={MRK} demoLink="http://mittroligaklassrum.se" demoText="View Website" codeLink="none" desc="Built with React, React Router, PHP, MySQL and SQL" /></Animate>
           </div>
         </Section>
       </div>
