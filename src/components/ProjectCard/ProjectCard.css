@@ -42,6 +42,10 @@
     padding-left: 20px;
 }
 
+.projectCard p {
+    margin: 5px;
+}
+
 @media only screen and (max-width: 800px) {
     .projectCard {
         grid-template-columns: 100%;

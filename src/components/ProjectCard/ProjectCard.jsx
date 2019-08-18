@@ -24,6 +24,7 @@ export default class ProjectCard extends React.Component {
           <h2>{this.props.title}</h2>
           {this.codeButton()}
           {this.demoButton()}<br />
+          <p>{this.props.desc}</p>
         </div>
       </div>
     );
