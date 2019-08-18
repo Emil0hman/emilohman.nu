@@ -1,5 +1,5 @@
 # Changelog - emilohman.nu
-## 1.0.8 - 
+## 1.0.8 - _2019-08-18_
 **Added:**
 - Added more CSS variables
 - Added a new section, see [Websites.jsx](src/components/Websites/Websites.jsx)
