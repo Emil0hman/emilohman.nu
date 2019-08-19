@@ -25,7 +25,6 @@ export default class Header extends React.Component {
 
     // Center the header text
     const headerText = document.querySelector('.header .HeaderText');
-    const header = document.querySelector('.header');
     headerText.style.paddingTop = `calc(37.5vh - ${headerText.clientHeight / 2}px)`
   }
 
