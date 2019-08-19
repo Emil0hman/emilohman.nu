@@ -22,12 +22,22 @@ export default class Header extends React.Component {
     setTimeout(_ => {
       this.setState({animateClasses: "notFullHeight"});
     }, length*1000);
+
+    // Center the header text
+    const headerText = document.querySelector('.header .HeaderText');
+    const header = document.querySelector('.header');
+    headerText.style.paddingTop = `calc(37.5vh - ${headerText.clientHeight / 2}px)`
   }
 
   render() {
     return (
       <div className={"header " + this.state.animateClasses}>
-        <HeaderAnimation><h1>Emil Öhman</h1></HeaderAnimation>
+        <HeaderAnimation>
+          <div className="HeaderText">
+            <h1>Emil Öhman</h1>
+            <h2>Web Developer</h2>
+          </div>
+        </HeaderAnimation>
       </div>
     );
   }
