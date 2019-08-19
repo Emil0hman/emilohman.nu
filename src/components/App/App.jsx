@@ -5,7 +5,7 @@ import './App.css';
 import Header from '../Header';
 import Skills from '../Skills';
 import Projects from '../Projects';
-import Websites from '../Websites';
+import Work from '../Work';
 import Footer from '../Footer';
 import ErrorPage from '../ErrorPage';
 
@@ -21,7 +21,7 @@ export default class App extends React.Component {
         <Header />
         <Skills />
         <Projects />
-        <Websites />
+        <Work />
         <Footer />
       </div>
     );
