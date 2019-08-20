@@ -1,10 +1,10 @@
 # Changelog - emilohman.nu
-## 1.0.9 - 
+## 1.0.9 - _2019-08-20_
 **Added:**
 - Added subtitle in [Header.jsx](src/components/Header/Header.jsx)
 
 **Changed:**
-- Changed Websites to Work
+- Changed _Websites_ to _Work_
 - Made changes to the start animation
 
 ## 1.0.8 - _2019-08-18_
