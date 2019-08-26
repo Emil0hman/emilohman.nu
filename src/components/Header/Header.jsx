@@ -32,10 +32,10 @@ export default class Header extends React.Component {
     return (
       <div className={"header " + this.state.animateClasses}>
         <HeaderAnimation>
-          <div className="HeaderText">
+          <header className="HeaderText">
             <h1>Emil Öhman</h1>
             <h2>Web Developer</h2>
-          </div>
+          </header>
         </HeaderAnimation>
       </div>
     );

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://emilohman.nu/scoreboard</loc>
+    </url>
+    <url>
+        <loc>http://emilohman.nu/projects/clock</loc>
+    </url>
+    <url>
+        <loc>http://emilohman.nu/projects/url</loc>
+    </url>
+    <url>
+        <loc>http://emilohman.nu/projects/rps</loc>
+    </url>
+
+    <url>
+        <loc>http://emilohman.nu/projects/quiz</loc>
+    </url>
+    <url>
+        <loc>http://emilohman.nu/old</loc>
+    </url>
+</urlset>
