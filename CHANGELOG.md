@@ -4,7 +4,7 @@
 - Added CoffeeScript in [Skills.jsx](src/components/Skills/Skills.jsx)
 - The title now changes depending on the error in [ErrorPage.jsx](src/components/ErrorPage/ErrorPage.jsx)
 - Add Easter-Egg
-- Added sidemap ([Sitemap.xml](public/sitemap.xml))
+- Added sitemap ([Sitemap.xml](public/sitemap.xml))
 - Better SEO in various ways
 - Add Google Analytics
 
