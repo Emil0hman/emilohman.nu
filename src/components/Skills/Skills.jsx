@@ -6,7 +6,7 @@ import Section from '../Section';
 import SubSection from '../SubSection';
 
 const skills = {
-  "frontend": ["HTML and CSS", "JavaScript", "SCSS and SASS", "React.js w/ React Router", "WordPress", "jQuery", "Bootstrap 4"],
+  "frontend": ["HTML and CSS", "JavaScript", "SCSS and SASS", "React.js w/ React Router", "WordPress", "jQuery", "CoffeeScript", "Bootstrap 4"],
   "backend": ["Node.js", "Express", "PHP", "Ruby", "Python", "SQL", "Go", "MySQL Database"],
   "other": ["Electron", "Git", "CLI", "Shell Script", "Processing", "Webpack", "NPM"]
 }

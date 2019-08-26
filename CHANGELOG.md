@@ -1,4 +1,8 @@
 # Changelog - emilohman.nu
+## 1.0.10 - _2019-08-_
+**Added:**
+- Added CoffeeScript in [Skills.jsx](src/components/Skills/Skills.jsx)
+
 ## 1.0.9 - _2019-08-20_
 **Added:**
 - Added subtitle in [Header.jsx](src/components/Header/Header.jsx)
