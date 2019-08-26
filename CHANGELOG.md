@@ -3,6 +3,7 @@
 **Added:**
 - Added CoffeeScript in [Skills.jsx](src/components/Skills/Skills.jsx)
 - The title now changes depending on the error in [ErrorPage.jsx](src/components/ErrorPage/ErrorPage.jsx)
+- Add Easter-Egg
 
 ## 1.0.9 - _2019-08-20_
 **Added:**
