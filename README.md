@@ -13,6 +13,7 @@ My portfolio website built with React.js
   - [react-animations](https://www.npmjs.com/package/react-animations)
   - [react-reveal](https://www.react-reveal.com)
 - [Google Fonts](https://fonts.google.com)
+- [Google Analytics](https://analytics.google.com)
 - [Font Awesome](https://fontawesome.com)
 
 ## Changelog
