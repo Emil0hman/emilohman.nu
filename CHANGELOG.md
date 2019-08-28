@@ -1,5 +1,5 @@
 # Changelog - emilohman.nu
-## 1.0.10 - _2019-08-_
+## 1.0.10 - _2019-08-26_
 **Added:**
 - Added CoffeeScript in [Skills.jsx](src/components/Skills/Skills.jsx)
 - The title now changes depending on the error in [ErrorPage.jsx](src/components/ErrorPage/ErrorPage.jsx)
