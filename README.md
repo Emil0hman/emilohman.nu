@@ -4,7 +4,12 @@
 ![website](https://img.shields.io/website/http/emilohman.nu?up_message=online)
 ![updated](https://img.shields.io/github/last-commit/emil0hman/emilohman.nu/master)
 
-My portfolio website built with React.js
+My portfolio website built with React.js. This project is not intended for anyone else to use.
+
+## Table of Contents
+- [Techstack](#techstack)
+- [Changelog](#changelog)
+- [License](#license)
 
 ## Techstack
 - JavaScript
@@ -18,3 +23,6 @@ My portfolio website built with React.js
 
 ## Changelog
 See [CHANGELOG.md](CHANGELOG.md)
+
+## License
+GPL-3.0, see [LICENCE](LICENCE)
