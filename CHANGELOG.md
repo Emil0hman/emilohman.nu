@@ -1,4 +1,9 @@
 # Changelog - emilohman.nu
+## 1.0.11 - _2019-10-_
+**Changed:**
+- Updated README
+- Updated Meta-Tags in [index.html](public/index.html)
+
 ## 1.0.10 - _2019-08-26_
 **Added:**
 - Added CoffeeScript in [Skills.jsx](src/components/Skills/Skills.jsx)
