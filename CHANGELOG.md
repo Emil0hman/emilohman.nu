@@ -3,6 +3,7 @@
 **Changed:**
 - Updated README
 - Updated Meta-Tags in [index.html](public/index.html)
+- Fixed bar where a vertical scrolling bar would appear in some browsers
 
 ## 1.0.10 - _2019-08-26_
 **Added:**
