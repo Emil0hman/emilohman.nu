@@ -13,11 +13,12 @@ const errorTexts = {
 
 export default class ErrorPage extends React.Component {
   render() {
-    const errorMsg = errorTexts[this.props.error];
-    document.title = `${this.props.error}: ${errorMsg} - Emil Öhman`;
+    const error = this.props.error;
+    const errorMsg = errorTexts[error];
+    document.title = `${error}: ${errorMsg} - Emil Öhman`;
     return (
       <div className={"errorPage "}>
-        <h1>{this.props.error}</h1>
+        <h1>{error}</h1>
         <h2>{errorMsg}</h2>
       </div>
     );
