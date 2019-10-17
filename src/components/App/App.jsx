@@ -61,8 +61,6 @@ export default class App extends React.Component {
           <Route exact path="/error/500" component={() => <ErrorPage error="500" />} />
           <Route exact path="/error/501" component={() => <ErrorPage error="501" />} />
           <Route exact path="/error/502" component={() => <ErrorPage error="502" />} />
-
-          <Route exact component={() => <ErrorPage error="404" />} />
         </Switch>   
       </Router>
     );
