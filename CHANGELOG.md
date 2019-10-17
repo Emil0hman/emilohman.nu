@@ -1,9 +1,14 @@
 # Changelog - emilohman.nu
 ## 1.0.11 - _2019-10-_
+**Added:**
+- Added React Router
+- Added a algrithm to publish articles
+
 **Changed:**
 - Updated README
 - Updated Meta-Tags in [index.html](public/index.html)
 - Fixed bar where a vertical scrolling bar would appear in some browsers
+- Changed ErrorPage system
 
 ## 1.0.10 - _2019-08-26_
 **Added:**

@@ -17,6 +17,7 @@ My portfolio website built with React.js. This project is not intended for anyon
   - [styled-components](https://www.npmjs.com/package/styled-components)
   - [react-animations](https://www.npmjs.com/package/react-animations)
   - [react-reveal](https://www.react-reveal.com)
+  - [react-router](https://github.com/ReactTraining/react-router)
 - [Google Fonts](https://fonts.google.com)
 - [Google Analytics](https://analytics.google.com)
 - [Font Awesome](https://fontawesome.com)
