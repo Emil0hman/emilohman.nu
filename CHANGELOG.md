@@ -1,8 +1,9 @@
 # Changelog - emilohman.nu
-## 1.0.11 - _2019-10-_
+## 1.0.11 - _2019-11-07_
 **Added:**
 - Added React Router
 - Added a algrithm to publish articles
+- Added Dark Mode support
 
 **Changed:**
 - Updated README
